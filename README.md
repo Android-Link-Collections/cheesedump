@@ -17,7 +17,8 @@ Derpfest 12
 
 Pixel Experience 12
 -----
-* [Telegram changelog](https://t.me/LexipC/113)
+* [Telegram changelog](https://t.me/LexipC/121)
+* [Telegram channel](https://t.me/LexipC)
 * [Download 5](https://download.pixelexperience.org/cheeseburger)
 * [Download 5t](https://download.pixelexperience.org/dumpling)
 * [Telegram chat](https://t.me/LexipC)
