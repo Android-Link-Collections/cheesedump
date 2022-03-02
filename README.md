@@ -1,6 +1,6 @@
 Roms
 ======
-* [Index Thread XDA 5](https://forum.xda-developers.com/t/index-oneplus-5-cheeseburger.3810283/#post-76943644)EOL
+* [Index Thread XDA 5](https://forum.xda-developers.com/t/index-oneplus-5-cheeseburger.3810283/#post-76943644) (EOL)
 
 Android
 ======
@@ -120,7 +120,7 @@ Arrow OS 11
 Derpfest 11
 -----
 * [Telegram channel](https://t.me/derpfestupdates)
-Telegram(https://t.me/DerpFest5T)
+* [Telegram chat](https://t.me/DerpFest5T)
 * [XDA 5/t](https://forum.xda-developers.com/t/rom-11-0-beta-derpfest-for-oneplus-5-t-official-2021-05-04.3978357/)
 * [Download 5](https://sourceforge.net/projects/derpfest/files/cheeseburger/)
 * [Download 5t](https://sourceforge.net/projects/derpfest/files/dumpling/)
@@ -447,8 +447,8 @@ Havoc OS 4.5 Gapps EOL
 
 Hycon OS 4.5 EOL
 -----
-XDA5/5t(https://forum.xda-developers.com/t/my-unofficial-builds-for-op5-5t-dumpling-and-cheese.4305537/#post-85384537)
-Download5/5t(https://sourceforge.net/projects/hycon11/files/)
+* [XDA5/t](https://forum.xda-developers.com/t/my-unofficial-builds-for-op5-5t-dumpling-and-cheese.4305537/#post-85384537)
+* [Download5/5t](https://sourceforge.net/projects/hycon11/files/)
 * thanks to @Arokz
 
 Hycon OS 2.0 EOL
@@ -538,7 +538,7 @@ official A10
 
 /e/ OS 0.22
 -----
-* [Documentation ]5(https://doc.e.foundation/devices/cheeseburger/)
+* [Documentation 5](https://doc.e.foundation/devices/cheeseburger/)
 * [Documentation 5t](https://doc.e.foundation/devices/dumpling/)
 * [Download 5](https://images.ecloud.global/dev/cheeseburger/)
 * [Download 5t](https://images.ecloud.global/dev/dumpling/)
@@ -590,7 +590,7 @@ A10 port
 
 OOS 10
 -----
-* [Telegram changelog 5]t(https://t.me/theromfactory/35673)
+* [Telegram changelog 5t](https://t.me/theromfactory/35673)
 * thanks to @SlavacheGuevara
 
 A9 port
@@ -733,7 +733,10 @@ TWRP DualSpeakerMod
 
 Magisk DualSpeakerMod v2
 -----
-* [Download 5/t](https://t.me/KarthikSupport/21459)GCam
+* [Download 5/t](https://t.me/KarthikSupport/21459)
+
+GCam
+=====
 
 NGcam 8.2 v1.7
 -----
@@ -752,7 +755,8 @@ Magisk Dotfix v6.2
 -----
 * [Telegram changelog](https://t.me/gcamOneplus/349339)
 * [Telegram download](https://t.me/gcamOneplus/349338)
-* [Download 5/t](https://www.celsoazevedo.com/files/android/google-camera/op5fix/v6-2/)* thanks to @shadowstepxda
+* [Download 5/t](https://www.celsoazevedo.com/files/android/google-camera/op5fix/v6-2/)
+* thanks to @shadowstepxda
 
 Config .xml
 -----
