@@ -257,8 +257,8 @@ Revenge OS 4.1 EOL
 * [Telegram channel](https://t.me/RevengeOSNews)
 * [Telegram chat](https://t.me/rosop5)
 * [XDA 5/t](https://forum.xda-developers.com/t/rom-official-op-5-5t-11-revenge-os-15-apr-2021.4196305/)
-* [Telegram changelog] 5(https://t.me/karthiks_multi_rom_oneplus5_5t/40)
-* [Telegram changelog] 5t(https://t.me/karthiks_multi_rom_oneplus5_5t/41)
+* [Telegram changelog 5](https://t.me/karthiks_multi_rom_oneplus5_5t/40)
+* [Telegram changelog 5t](https://t.me/karthiks_multi_rom_oneplus5_5t/41)
 * [Download 5](https://download.revengeos.com/download/cheeseburger/)
 * [Download 5t](https://download.revengeos.com/download/dumpling/)
 * thanks to @zorock
@@ -339,10 +339,10 @@ Project Radiant 1.1
 
 Project Sakura 5.2 gapps
 -----
-* [Telegram changelog] 5(https://t.me/theromfactory/15551)
+* [Telegram changelog 5](https://t.me/theromfactory/15551)
 * [Download 5](https://drive.google.com/drive/folders/1evx3fjI5B8L10nWSr-TAvi5f0bwjbjp5?usp=sharing)
 * [Mirror 5](https://sourceforge.net/projects/oneplus5t/files/Sakura/cheeseburger/ProjectSakura-5.2-GAPPS-Basic-20210913-1330-cheeseburger-UNOFFICIAL.zip/download)
-* [Telegram changelog] 5t(https://t.me/theromfactory/15554)
+* [Telegram changelog 5t](https://t.me/theromfactory/15554)
 * [Download 5t](https://drive.google.com/drive/folders/1lrlLhaZbjx7YEmJotx_DfMzoakHheaPf?usp=sharing)
 * [Mirror 5t](https://sourceforge.net/projects/oneplus5t/files/Sakura/dumpling/ProjectSakura-5.2-GAPPS-Basic-20210913-1316-dumpling-UNOFFICIAL.zip/download)
 * thanks to @xTeja
