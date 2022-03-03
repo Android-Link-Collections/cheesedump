@@ -50,10 +50,11 @@ AOSP 12
 * [Download 5t](https://androidfilehost.com/?w=files&flid=328820)
 * thanks to @robertoglX
 
-AOSP 12 4.14 kernel beta 7
+AOSP 12 4.14 kernel beta 8
 -----
 * [Telegram chat](https://t.me/joinchat/KuwpfBovTq8ZMtVopNZWnw)
-* [Telegram changelog](https://t.me/c/1205985666/5943)
+* [Telegram changelog](https://t.me/c/1708886159/72)
+* [Known issues](https://docs.google.com/spreadsheets/d/1Vw3uwP5mzR-W8cgOrPm8ufqE6kJLj5A7pJSyoBILpPc/edit#gid=225442693)
 * [Download 5/t](https://androidfilehost.com/?w=files&flid=331394)
 * thanks to @robertoglX
 
