@@ -69,10 +69,11 @@ Cherish OS 3.2
 * [Download 5/t](https://drive.google.com/folderview?id=1aJGzVubBWpeQHk4NvOgyfr4LHKbb37Gs)
 * thanks to @Usmaan66
 
-Lineage OS 19.0 alpha
+Lineage OS 19.1
 -----
-* [XDA 5/t](https://forum.xda-developers.com/t/12-0-unofficial-lineageos-19-0-alpha-for-oneplus-5-5t.4353295/)
-* [Download 5/t](https://sourceforge.net/projects/lineageos-cheeseburger/files/lineage-19.0/)
+* [XDA 5/t](https://forum.xda-developers.com/t/12-1-unofficial-lineageos-19-1-for-oneplus-5-5t.4353295/post-86582953)
+* [Download 5/t](https://sourceforge.net/projects/lineageos-cheeseburger/files/lineage-19.1/)
+* [Telegram chat](https://t.me/los_op5)
 * thanks to @trautamaki
 
 Paranoid Android Saphire alpha
