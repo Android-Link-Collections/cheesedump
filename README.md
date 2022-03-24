@@ -24,6 +24,12 @@ Pixel Experience 12
 * [Telegram chat](https://t.me/LexipC)
 * thanks to @xLexip
 
+Project Elexir 12.0
+-----
+* [XDA5t](https://forum.xda-developers.com/t/rom-oss-12-0-oneplus-5t-dumpling-project-elixir-official-gapps.4418947/)
+* [Download 5t](https://downloads.projectelixiros.com/?dir=twelve/dumpling)
+* thanks to [@mudabbirulsaad](https://forum.xda-developers.com/m/mudabbirulsaad.12045115/)
+
 Project Radiant 12.0.1 gapps
 -----
 * [Telegram changelog](https://t.me/ProjectRadiant/1194)
