@@ -325,11 +325,11 @@ LuisROM CrDroid
 * [Telegram chat](https://t.me/rr_luisrom)
 * [Download 5t](https://luis-builds.de/downloads/lineageos/cr/oneplus5t/)
 
-Project Kasumi 1.0 stable
+Project Kasumi 1.1
 -----
-* [Telegram changelog](https://t.me/theromfactory/37188)
-* [Download 5](https://sourceforge.net/projects/theromproject/files/Cheeseburger%28OP5%29/Project_Kasumi/Kasumi-1.0-PoPiPa-20220204-UNOFFICIAL-cheeseburger.zip/download)
-* [Download 5t](https://sourceforge.net/projects/theromproject/files/Dumpling%28OP5T%29/Project_Kasumi/Kasumi-1.0-PoPiPa-20220204-UNOFFICIAL-dumpling.zip/download)
+* [Telegram changelog](https://t.me/theromfactory/43147)
+* [Download 5](https://sourceforge.net/projects/sirrgb-roms/files/Cheeseburger/Project_Kasumi/Kasumi-1.1-PoPiPa-20220402-UNOFFICIAL-cheeseburger.zip/download)
+* [Download 5t](https://sourceforge.net/projects/sirrgb-roms/files/Dumpling/Project_Kasumi/Kasumi-1.1-PoPiPa-20220402-UNOFFICIAL-dumpling.zip/download)
 * built by [me](http://t.me/SirRGB)
 
 Project Sakura 5.2 gapps
