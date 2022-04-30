@@ -16,6 +16,14 @@ Derpfest 12
 * [Download 5t](https://sourceforge.net/projects/derpfest/files/dumpling/)
 * thanks to @NurKeinNeid
 
+Lineage 19.1 MiroG
+-----
+* [Telegram changelog](https://t.me/losoneplus5/2079)
+* [XDA](https://forum.xda-developers.com/t/rom-lineageos-18-1-with-microg-for-oneplus-5-5t.4260639/)
+* [Download 5](https://www.los-legacy.de/19.1/cheeseburger)
+* [Download 5t](https://www.los-legacy.de/19.1/dumpling)
+* thanks to @Exodusnick
+
 Pixel Experience 12
 -----
 * [Telegram changelog](https://t.me/LexipC/121)
@@ -52,6 +60,7 @@ DotOS 6.0 Beta
 * thanks to @forkbomb9
 
 Spark OS S Energized Vanilla
+-----
 * [Telegram changelog](https://t.me/theromfactory/43074)
 * [Download 5](https://sourceforge.net/projects/akas/files/Spark-12.2-UNOFFICIAL-cheeseburger-20220426.zip/download)
 * [Download 5t](https://sourceforge.net/projects/akas/files/Spark-12.2-UNOFFICIAL-dumpling-20220427.zip/download)
