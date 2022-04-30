@@ -45,6 +45,12 @@ AOSP 12 4.14 kernel beta 8
 * [Download 5/t](https://androidfilehost.com/?w=files&flid=331394)
 * thanks to @robertoglX
 
+DotOS 6.0 Beta
+-----
+* [Telegram changelog](https://t.me/theromfactory/42405)
+* [Download](https://droid.forkbomb9.ch/)
+* thanks to @forkbomb9
+
 Spark OS S Energized Vanilla
 * [Telegram changelog](https://t.me/theromfactory/43074)
 * [Download 5](https://sourceforge.net/projects/akas/files/Spark-12.2-UNOFFICIAL-cheeseburger-20220426.zip/download)
