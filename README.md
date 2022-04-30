@@ -96,7 +96,6 @@ Spark OS S Energized Gapps
 
 YAAP 12 gapps
 -----
-* [Telegram changelog](https://t.me/yaapop5/11426)
 * [Telegram chat](https://t.me/yaapop5)
 * [Download 5/t](https://mega.nz/folder/Q10HWAJa#VEdJ05YCOq5IeRJLFDch0g)
 * thanks to @enesykaya
