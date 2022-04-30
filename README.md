@@ -297,12 +297,12 @@ Styx project 1.4 EOL
 Unofficial A11
 =====
 
-CrDroid 7.13
+CrDroid 7.16
 -----
-* [Telegram changelog](https://t.me/OP5T_flos_crdroid_updates/1216)
-* [Download 5](https://sourceforge.net/projects/oneplus5t/files/crDroid/cheeseburger/)
-* [Download 5t](https://sourceforge.net/projects/oneplus5t/files/crDroid/dumpling/)
-* thanks to @xTeja
+* [Telegram changelog](https://t.me/oneplus5_flos_crDroid_updates/6)
+* [Download 5](https://sourceforge.net/projects/sirrgb-roms/files/Cheeseburger/CrDroid/crDroidAndroid-11.0-20220322-cheeseburger-v7.16.zip/download)
+* [Download 5t](https://sourceforge.net/projects/sirrgb-roms/files/Dumpling/CrDroid/crDroidAndroid-11.0-20220322-dumpling-v7.16.zip/download)
+* thanks to @xTeja and me
 
 Dot OS 5.2.1
 -----
