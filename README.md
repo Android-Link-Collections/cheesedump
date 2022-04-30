@@ -5,6 +5,16 @@ Roms
 Android
 ======
 
+unofficial A12.1
+=====
+
+Spark OS S Energized Vanilla
+* [Telegram changelog](https://t.me/theromfactory/43074)
+* [Download 5](https://sourceforge.net/projects/akas/files/Spark-12.2-UNOFFICIAL-cheeseburger-20220426.zip/download)
+* [Download 5t](https://sourceforge.net/projects/akas/files/Spark-12.2-UNOFFICIAL-dumpling-20220427.zip/download)
+thanks to @LX_44
+
+
 official A12
 =====
 
