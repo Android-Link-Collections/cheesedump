@@ -315,11 +315,11 @@ Styx project 1.4 EOL
 Unofficial A11
 =====
 
-CrDroid 7.16
+CrDroid 7.17
 -----
-* [Telegram changelog](https://t.me/oneplus5_flos_crDroid_updates/6)
-* [Download 5](https://sourceforge.net/projects/sirrgb-roms/files/Cheeseburger/CrDroid/crDroidAndroid-11.0-20220322-cheeseburger-v7.16.zip/download)
-* [Download 5t](https://sourceforge.net/projects/sirrgb-roms/files/Dumpling/CrDroid/crDroidAndroid-11.0-20220322-dumpling-v7.16.zip/download)
+* [Telegram changelog](https://t.me/oneplus5_flos_crDroid_updates/9)
+* [Download 5](https://sourceforge.net/projects/sirrgb-roms/files/Cheeseburger/CrDroid/crDroidAndroid-11.0-20220430-cheeseburger-v7.17.zip/download)
+* [Download 5t](https://sourceforge.net/projects/sirrgb-roms/files/Dumpling/CrDroid/crDroidAndroid-11.0-20220430-dumpling-v7.17.zip/download)
 * thanks to @xTeja and me
 
 ForkLineage OS 18.1
