@@ -696,7 +696,7 @@ unofficial TWRP 3.6.0_11
 
 unofficial themed TWRP 3.5.2_9
 -----
-* [Download 5/t](https://androidessentials.shadowstep.workers.dev/0:/Recoveries/Custom/)
+* [Download 5/t](https://androidfilehost.com/?w=files&flid=284691)
 
 official OrangeFox R11
 -----
