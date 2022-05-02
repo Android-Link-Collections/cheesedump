@@ -291,12 +291,6 @@ ShapeShift OS 2.8 EOL
 * [Download 5t](https://sourceforge.net/projects/shapeshiftos/files/dumpling/)
 * thanks to @MezzLasha
 
-Stag OS R3 EOL
------
-* [Telegram channel](https://t.me/HornsUpdates)
-* [Download 5](https://api.stag-os.org/downloads/ota/cheeseburger/pristine)
-* [Download 5t](https://api.stag-os.org/downloads/ota/dumpling/pristine)
-
 Styx project 1.4 EOL
 -----
 * [XDA 5/t](https://forum.xda-developers.com/t/rom-11-0-official-styx-project-for-oneplus-5-t.4281375/)
