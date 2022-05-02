@@ -483,11 +483,6 @@ Palladium OS 1.3 EOL
 * [Download 5t](https://sourceforge.net/projects/palladium-unofficial-op5-5t/files/Dumpling/)
 * thanks to @Arokz
 
-Paranoid Android Ruby 1 test EOL
------
-* [Download 5/t](https://drive.google.com/drive/folders/1bl4PRIR0XUoRz8c-uoRKsR64uqsZhg36)
-* thanks to @enesykaya
-
 Project Awaken 1.7 EOL
 -----
 * [Download 5](https://sourceforge.net/projects/theromproject/files/Cheeseburger%28OP5%29/Project_Awaken/)
