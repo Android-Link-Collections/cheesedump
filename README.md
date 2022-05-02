@@ -16,6 +16,11 @@ Derpfest 12
 * [Download 5t](https://sourceforge.net/projects/derpfest/files/dumpling/)
 * thanks to @NurKeinNeid
 
+DivestOS 19.1 EXPERIMENTAL
+-----
+* [Download 5](https://divestos.org/index.php?page=devices&base=LineageOS#device-cheeseburger)
+* [Download 5t](https://divestos.org/index.php?page=devices&base=LineageOS#device-dumpling)
+
 Lineage 19.1 MiroG
 -----
 * [Telegram changelog](https://t.me/losoneplus5/2079)
@@ -138,7 +143,6 @@ AICP 16.1 weekly
 
 DivestOS 18.1
 -----
-* [XDA 5/t](https://forum.xda-developers.com/t/descendant-xi-rom-for-oneplus-5-and-5t-unofficial-lazy-kernel.4283781/)
 * [Download 5](https://divestos.org/index.php?page=devices&base=LineageOS#device-cheeseburger)
 * [Download 5t](https://divestos.org/index.php?page=devices&base=LineageOS#device-dumpling)
 
