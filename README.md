@@ -283,17 +283,6 @@ Project Xtended XR vX.r EOL
 * [Download 5t](https://downloads.project-xtended.org/?dir=dumpling)
 * thanks to @mukesh22584
 
-Revenge OS 4.1 EOL
------
-* [Telegram channel](https://t.me/RevengeOSNews)
-* [Telegram chat](https://t.me/rosop5)
-* [XDA 5/t](https://forum.xda-developers.com/t/rom-official-op-5-5t-11-revenge-os-15-apr-2021.4196305/)
-* [Telegram changelog 5](https://t.me/karthiks_multi_rom_oneplus5_5t/40)
-* [Telegram changelog 5t](https://t.me/karthiks_multi_rom_oneplus5_5t/41)
-* [Download 5](https://download.revengeos.com/download/cheeseburger/)
-* [Download 5t](https://download.revengeos.com/download/dumpling/)
-* thanks to @zorock
-
 ShapeShift OS 2.8 EOL
 -----
 * [Telegram channel](https://t.me/ShapeShiftOSChannel)
