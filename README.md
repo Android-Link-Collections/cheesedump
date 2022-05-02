@@ -279,8 +279,8 @@ Project Xtended XR vX.r EOL
 -----
 * [XDA 5/t](https://forum.xda-developers.com/t/rom-android-11-xtended-xr-v9-0-oneplus-5-5t-08-august-2021.3992183/page-56#post-85446011)
 * [Telegram channel](https://t.me/xtendedrom)
-* [Download 5](https://downloads.msmxtended.org/?dir=cheeseburger)
-* [Download 5t](https://downloads.msmxtended.org/?dir=dumpling)
+* [Download 5](https://downloads.project-xtended.org/?dir=cheeseburger)
+* [Download 5t](https://downloads.project-xtended.org/?dir=dumpling)
 * thanks to @mukesh22584
 
 Revenge OS 4.1 EOL
