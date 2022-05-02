@@ -584,12 +584,6 @@ CrDroid 6.17 EOL
 * [Download 5t](https://sourceforge.net/projects/crdroid/files/dumpling/6.x/)
 * thanks to @neobuddy89
 
-Paranoid Android Quarz 5 EOL
------
-* [Telegram channel](https://t.me/paranoidandroidofficial)
-* [XDA 5/t](https://forum.xda-developers.com/t/paranoid-android-quartz-4-oneplus-5-t.4089007/)
-* [Download 5/t](https://paranoidandroid.co/downloads/oneplus5)
-
 Resurrection Remix 8.7.3 EOL
 -----
 * [Telegram chat](https://t.me/KarthikSupport)
