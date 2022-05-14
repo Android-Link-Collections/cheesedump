@@ -8,12 +8,13 @@ Android
 official A12
 =====
 
-Derpfest 12
+Paranoid Android Saphire Beta 1
 -----
-* [XDA 5/t](https://forum.xda-developers.com/t/rom-12-0-derpfest-for-oneplus-5-t-official-2021-11-03.3978357/)
-* [Download 5](https://sourceforge.net/projects/derpfest/files/cheeseburger/)
-* [Download 5t](https://sourceforge.net/projects/derpfest/files/dumpling/)
-* thanks to @NurKeinNeid
+* [Telegram channel](https://t.me/paranoidandroidofficial)
+* [Telegram chat](https://t.me/aospaop5)
+* [Download 5](https://aospa.pages.dev/oneplus5)
+* [Download 5t](https://aospa.pages.dev/oneplus5t)
+* thanks to @enesykaya and @herna
 
 Pixel Experience 12
 -----
@@ -37,6 +38,13 @@ Project Xtended XS Tribute-To-VladimirS gapps
 * [Download 5](https://downloads.project-xtended.org/?dir=cheeseburger)
 * [Download 5t](https://downloads.project-xtended.org/?dir=dumpling)
 * thanks to @mukesh22584
+
+Derpfest 12 EOL
+-----
+* [XDA 5/t](https://forum.xda-developers.com/t/rom-12-0-derpfest-for-oneplus-5-t-official-2021-11-03.3978357/)
+* [Download 5](https://sourceforge.net/projects/derpfest/files/cheeseburger/)
+* [Download 5t](https://sourceforge.net/projects/derpfest/files/dumpling/)
+* thanks to @NurKeinNeid
 
 
 unofficial A12
