@@ -22,6 +22,14 @@ DivestOS 19.1 EXPERIMENTAL
 * [Download 5](https://divestos.org/index.php?page=devices&base=LineageOS#device-cheeseburger)
 * [Download 5t](https://divestos.org/index.php?page=devices&base=LineageOS#device-dumpling)
 
+Lineage OS 19.1
+-----
+* [XDA 5/t](https://forum.xda-developers.com/t/12-1-unofficial-lineageos-19-1-for-oneplus-5-5t.4353295/post-86582953)
+* [Download 5](https://download.lineageos.org/cheeseburger)
+* [Download 5t](https://download.lineageos.org/dumpling)
+* [Telegram chat](https://t.me/los_op5)
+* thanks to @trautamaki
+
 Lineage 19.1 MiroG
 -----
 * [Telegram changelog](https://t.me/losoneplus5/2079)
@@ -45,13 +53,6 @@ Derpfest 12 EOL
 * [Download 5](https://sourceforge.net/projects/derpfest/files/cheeseburger/)
 * [Download 5t](https://sourceforge.net/projects/derpfest/files/dumpling/)
 * thanks to @NurKeinNeid
-
-Project Xtended XS Tribute-To-VladimirS gapps EOL
------
-* [XDA 5/t](https://forum.xda-developers.com/t/rom-a12-gapps-xtended-xs-first-blood-oneplus-5-5t-11-dec-2021.3992183/post-86080671)
-* [Download 5](https://downloads.project-xtended.org/?dir=cheeseburger)
-* [Download 5t](https://downloads.project-xtended.org/?dir=dumpling)
-* thanks to @mukesh22584
 
 
 unofficial A12.1
@@ -85,13 +86,6 @@ Spark OS S Energized Vanilla
 * [Download 5](https://sourceforge.net/projects/akas/files/Spark-12.2-UNOFFICIAL-cheeseburger-20220426.zip/download)
 * [Download 5t](https://sourceforge.net/projects/akas/files/Spark-12.2-UNOFFICIAL-dumpling-20220427.zip/download)
 * thanks to @LX_44
-
-Lineage OS 19.1
------
-* [XDA 5/t](https://forum.xda-developers.com/t/12-1-unofficial-lineageos-19-1-for-oneplus-5-5t.4353295/post-86582953)
-* [Download 5/t](https://sourceforge.net/projects/lineageos-cheeseburger/files/lineage-19.1/)
-* [Telegram chat](https://t.me/los_op5)
-* thanks to @trautamaki
 
 YAAP 12 gapps
 -----
