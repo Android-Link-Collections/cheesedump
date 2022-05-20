@@ -88,6 +88,14 @@ Evolution X
 * [Download 5t](https://drive.google.com/file/d/1hLLydKGfe-xmXICTcfE6EQP9wmKUCL7d/view?usp=sharing)
 * thanks to @MudabbirulSaad
 
+PixelOS
+-----
+* [Telegram changelog 5](https://t.me/SaadsProjects/71)
+* [Telegram changelog 5t](https://t.me/SaadsProjects/72)
+* [Download 5](https://drive.google.com/file/d/1yoa-Zg7qhFmAePl3FSoOEFIKJVIVKDCv/view?usp=drivesdk)
+* [Download 5t](https://drive.google.com/file/d/1OgqnkuxZQM0rycU3gfjwYAxWqvbJwsb7/view?usp=drivesdk)
+* thanks to @MudabbirulSaad
+
 Project Awaken 12.1
 -----
 * [Telegram changelog](https://t.me/SaadsProjects/59)
