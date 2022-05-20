@@ -80,6 +80,14 @@ DotOS 6.0 Beta
 * [Download](https://droid.forkbomb9.ch/)
 * thanks to @forkbomb9
 
+Evolution X
+-----
+* [Telegram changelog 5](https://t.me/SaadsProjects/62)
+* [Telegram changelog 5t(https://t.me/SaadsProjects/61)
+* [Download 5](https://drive.google.com/file/d/1mGmCk22sl96Ti8wzoPzoh0yLi61J7WPg/view?usp=sharing)
+* [Download 5t](https://drive.google.com/file/d/1hLLydKGfe-xmXICTcfE6EQP9wmKUCL7d/view?usp=sharing)
+* thanks to @MudabbirulSaad
+
 Project Awaken 12.1
 -----
 * [Telegram changelog](https://t.me/SaadsProjects/59)
