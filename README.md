@@ -192,12 +192,12 @@ DivestOS 18.1
 * [Download 5](https://images.ecloud.global/dev/cheeseburger/)
 * [Download 5t](https://images.ecloud.global/dev/dumpling/)
 
-Lineage OS 18.1 weekly
+Lineage OS 18.1 weekly EOL
 -----
 * [Telegram chat](http://t.me/los_op5)
 * [XDA 5/t](https://forum.xda-developers.com/t/rom-11-0-unofficial-lineageos-18-1-for-oneplus-5-5t.4173997/)
-* [Download 5](https://download.lineageos.org/cheeseburger)
-* [Download 5t](https://download.lineageos.org/dumpling)
+* [Download 5](https://lineageosroms.com/cheeseburger/)
+* [Download 5t](https://lineageosroms.com/dumpling)
 * thanks to @trautamaki
 
 Lineage OS 18.1 Micro G
@@ -341,11 +341,13 @@ Styx project 1.4 EOL
 Unofficial A11
 =====
 
-CrDroid 7.17
+CrDroid 7.18
 -----
-* [Telegram changelog](https://t.me/oneplus5_flos_crDroid_updates/9)
-* [Download 5](https://sourceforge.net/projects/sirrgb-roms/files/Cheeseburger/CrDroid/crDroidAndroid-11.0-20220430-cheeseburger-v7.17.zip/download)
-* [Download 5t](https://sourceforge.net/projects/sirrgb-roms/files/Dumpling/CrDroid/crDroidAndroid-11.0-20220430-dumpling-v7.17.zip/download)
+* [Telegram changelog](https://t.me/oneplus5_flos_crDroid_updates/10)
+* [Download 5](https://sourceforge.net/projects/sirrgb-roms/files/Cheeseburger/CrDroid/crDroidAndroid-11.0-20220516-cheeseburger-v7.18.zip/download)
+* [Mirror 5](https://github.com/SirRGB/releases/releases/download/202205161540-crDroidAndroid-11.0-20220516-cheeseburger-v7.18/crDroidAndroid-11.0-20220516-cheeseburger-v7.18.zip)
+* [Download 5t](https://sourceforge.net/projects/sirrgb-roms/files/Dumpling/CrDroid/crDroidAndroid-11.0-20220516-dumpling-v7.18.zip/download)
+* [Mirror 5t](https://github.com/SirRGB/releases/releases/download/202205161603-crDroidAndroid-11.0-20220516-dumpling-v7.18/crDroidAndroid-11.0-20220516-dumpling-v7.18.zip)
 * thanks to @xTeja and me
 
 ForkLineage OS 18.1
@@ -359,13 +361,6 @@ LuisROM CrDroid
 -----
 * [Telegram chat](https://t.me/rr_luisrom)
 * [Download 5t](https://luis-builds.de/downloads/lineageos/cr/oneplus5t/)
-
-Project Kasumi 1.1
------
-* [Telegram changelog](https://t.me/theromfactory/43147)
-* [Download 5](https://sourceforge.net/projects/sirrgb-roms/files/Cheeseburger/Project_Kasumi/Kasumi-1.1-PoPiPa-20220402-UNOFFICIAL-cheeseburger.zip/download)
-* [Download 5t](https://sourceforge.net/projects/sirrgb-roms/files/Dumpling/Project_Kasumi/Kasumi-1.1-PoPiPa-20220402-UNOFFICIAL-dumpling.zip/download)
-* built by [me](http://t.me/SirRGB)
 
 Project Sakura 5.2 gapps
 -----
@@ -533,6 +528,13 @@ Project Fluid 1.6 EOL
 * [Download 5](https://sourceforge.net/projects/theromproject/files/Cheeseburger%28OP5%29/Fluid_Rum/Fluid-1.6-Rum-UNOFFICIAL-cheeseburger-20210629.zip/download)
 * [Download 5t](https://sourceforge.net/projects/theromproject/files/Dumpling%28OP5T%29/Fluid_Rum/Fluid-1.6-Rum-UNOFFICIAL-dumpling-20210624.zip/download)
 * thanks to @lolaplebs
+
+Project Kasumi 1.1 EOL
+-----
+* [Telegram changelog](https://t.me/theromfactory/43147)
+* [Download 5](https://sourceforge.net/projects/sirrgb-roms/files/Cheeseburger/Project_Kasumi/Kasumi-1.1-PoPiPa-20220402-UNOFFICIAL-cheeseburger.zip/download)
+* [Download 5t](https://sourceforge.net/projects/sirrgb-roms/files/Dumpling/Project_Kasumi/Kasumi-1.1-PoPiPa-20220402-UNOFFICIAL-dumpling.zip/download)
+* built by [me](http://t.me/SirRGB)
 
 Project Materium 1.0 Pudding EOL
 -----
