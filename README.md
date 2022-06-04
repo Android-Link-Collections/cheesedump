@@ -61,7 +61,7 @@ unofficial A12.1
 AOSP 12.1
 -----
 * [Telegram chat](https://t.me/joinchat/KuwpfBovTq8ZMtVopNZWnw)
-* [XDA 5](https://forum.xda-developers.com/t/rom-12-oneplus-5-aosp-for-oneplus-5-07-mar-2021-aosp-master-experimental.4243779/)
+* [XDA 5](https://forum.xda-developers.com/t/rom-12-1-oneplus-5-5t-aosp-for-oneplus-5-21-may-2022.4343441/page-6#post-86923105)
 * [Download 5](https://androidfilehost.com/?w=files&flid=328726)
 * [Download 5t](https://androidfilehost.com/?w=files&flid=328820)
 * thanks to @robertoglX
