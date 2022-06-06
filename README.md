@@ -100,7 +100,7 @@ Project Awaken 12.1
 -----
 * [Telegram changelog](https://t.me/SaadsProjects/59)
 * [Download 5t](https://drive.google.com/file/d/1ZJf0waMqMycfu4Xju5I3QcRSkSbFXNOk/view?usp=sharing)
-* [Download 5t GAPPS](https://drive.google.com/file/d/1cI5Y9IJ9Fg7C_rVsivjBN0FRzXehoJmy/view?usp=sharing
+* [Download 5t GAPPS](https://drive.google.com/file/d/1cI5Y9IJ9Fg7C_rVsivjBN0FRzXehoJmy/view?usp=sharing)
 * thanks to @MudabbirulSaad
 
 Project Blaze v1.1
