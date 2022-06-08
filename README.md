@@ -92,6 +92,16 @@ DotOS 6.0 Beta
 * [Download](https://droid.forkbomb9.ch/)
 * thanks to @forkbomb9
 
+DotOS 6.0
+-----
+* [Telegram changelog 5](https://t.me/AurorasBakery/23)
+* [Telegram changelog 5t](https://t.me/AurorasBakery/22)
+* [Download 5 vanilla](https://drive.google.com/file/d/18ma_to2KvWm-QxYJN47pTtLUMyuqfIUS/view?usp=sharing)
+* [Download 5 gapps](https://drive.google.com/file/d/1zoySHQ0yRcZ7XQQXVQsUMYHsd214Q2RR/view?usp=sharing)
+* [Download 5t vanilla](https://drive.google.com/file/d/1dfBA4tF3ZS1vykqYdYZQpui6jTyszEvN/view?usp=sharing)
+* [Download 5t gapps](https://drive.google.com/file/d/1Z0QidcgS8D5KN87vMJpMmo2SZZHdis4a/view?usp=sharing)
+* thanks to @MudabbirulSaad
+
 Evolution X
 -----
 * [Telegram changelog 5](https://t.me/SaadsProjects/62)
