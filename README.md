@@ -803,9 +803,9 @@ Magisk DualSpeakerMod v2
 GCam
 =====
 
-NGcam 8.2 v1.7
+NGcam 8.2 v1.8
 -----
-* [Telegram changelog](https://t.me/ngcam/203)
+* [Telegram changelog](https://t.me/ngcam/207)
 * [Download 5/t](https://telegra.ph/NGCam--Downloads-08-28)
 * thanks to @nickpl13
 
@@ -823,9 +823,10 @@ Magisk Dotfix v6.2
 * [Download 5/t](https://www.celsoazevedo.com/files/android/google-camera/op5fix/v6-2/)
 * thanks to @shadowstepxda
 
-Config .xml
+Gcam configs
 -----
 * [Telegram channel](https://t.me/ngcamxml)
+* [Telegram download](https://t.me/ngcamxml/654)
 * [Telegram download](https://t.me/ngcamxml/626)
 * [Telegram download](https://t.me/ngcamxml/610)
 * [Telegram download](https://t.me/ngcamxml/588)
