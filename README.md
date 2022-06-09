@@ -344,6 +344,11 @@ Project Xtended XR vX.r EOL
 * [Download 5t](https://downloads.project-xtended.org/?dir=dumpling)
 * thanks to @mukesh22584
 
+Revenge OS 4.0
+-----
+* [Download](https://sourceforge.net/projects/revenge-os-oneplus-5-and-5t/files/)
+* thanks to @zorock
+
 ShapeShift OS 2.8 EOL
 -----
 * [Telegram channel](https://t.me/ShapeShiftOSChannel)
