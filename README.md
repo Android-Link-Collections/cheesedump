@@ -406,6 +406,13 @@ ForkLineage OS 18.1
 * [Download 5/t](https://sourceforge.net/projects/oneplus5t/files/FLOS/)
 * thanks to @xTeja
 
+Havoc OS 4.16
+-----
+* [Telegram changelog](https://t.me/theromfactory/56349)
+* [XDA](https://forum.xda-developers.com/t/11-0-unofficial-havoc-os-4-x-for-oneplus-5-t.4461565/)
+* [Download](https://droid.forkbomb9.ch/)
+* thanks to @forkbomb9
+
 LuisROM CrDroid
 -----
 * [Telegram chat](https://t.me/rr_luisrom)
