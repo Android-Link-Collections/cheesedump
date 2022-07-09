@@ -86,6 +86,12 @@ BlissROMs 15.6
 * [Download 5t gapps](https://sourceforge.net/projects/saadsprojects/files/dumpling/bliss/june/HOTFIX/Bliss-v15.6-dumpling-UNOFFICIAL-gapps-20220629.zip/download)
 * thanks to @MudabbirulSaad
 
+BlissROMs 15.5 test
+-----
+* [Download 5 gapps](https://drive.google.com/file/d/1EniV-IPl3ohJtF_5cffxk8xlcDHokUJ7/view)
+* [Download 5t gapps](https://drive.google.com/file/d/1SxtWM7eIzUaP3asZlirsjv1UtkHfXlc1/view)
+* thanks to @Wolf
+
 Corvus OS v3.2
 -----
 * [Telegram changelog 5](https://t.me/AurorasBakery/79)
