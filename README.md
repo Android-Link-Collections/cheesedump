@@ -149,11 +149,11 @@ Project Awaken 12.1
 * [Download 5t GAPPS](https://drive.google.com/file/d/1cI5Y9IJ9Fg7C_rVsivjBN0FRzXehoJmy/view?usp=sharing)
 * thanks to @MudabbirulSaad
 
-Project Blaze v1.1
+Project Blaze v1.2
 -----
-* [Telegram changelog](https://t.me/SaadsProjects/60)
-* [Download 5t](https://drive.google.com/file/d/1bkmp2WfK6u8C-lDbXjtfE78GO4u28-ND/view?usp=sharing)
-* [Download 5t GAPPS](https://drive.google.com/file/d/1gnOEoyJcd5XxVARv31ls28L1sKTcqd_6/view?usp=sharing)
+* [Telegram changelog](https://t.me/AurorasBakery/50)
+* [Download 5t](https://drive.google.com/file/d/1QFIMsqwN4Gk600Imh-HEdy1P3jYpDx5_/view?usp=sharing)
+* [Download 5t GAPPS](https://drive.google.com/file/d/1O3m8lsxoIBqEmqSF-uDbhIJHK5U9PAnW/view?usp=sharing)
 * thanks to @MudabbirulSaad
 
 Spark OS 12.4 gapps test
