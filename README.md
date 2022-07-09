@@ -156,6 +156,12 @@ Project Blaze v1.2
 * [Download 5t GAPPS](https://drive.google.com/file/d/1O3m8lsxoIBqEmqSF-uDbhIJHK5U9PAnW/view?usp=sharing)
 * thanks to @MudabbirulSaad
 
+Project Elexir 12
+-----
+* [XDA5t](https://forum.xda-developers.com/t/rom-oss-12-0-oneplus-5t-dumpling-project-elixir-official-gapps.4418947/)
+* [Download 5t](https://downloads.projectelixiros.com/?dir=twelve/dumpling)
+* thanks to [@mudabbirulsaad](https://forum.xda-developers.com/m/mudabbirulsaad.12045115/)
+
 Spark OS 12.4 gapps test
 -----
 * [Download 5](https://drive.google.com/file/d/1-BUDHk7iFFF0RSDUZt0_M3KUodZOH3-C/view)
@@ -178,12 +184,6 @@ YAAP 12 gapps
 
 official A12
 =====
-
-Project Elexir 12.0
------
-* [XDA5t](https://forum.xda-developers.com/t/rom-oss-12-0-oneplus-5t-dumpling-project-elixir-official-gapps.4418947/)
-* [Download 5t](https://downloads.projectelixiros.com/?dir=twelve/dumpling)
-* thanks to [@mudabbirulsaad](https://forum.xda-developers.com/m/mudabbirulsaad.12045115/)
 
 Project Radiant 12.0.1 gapps EOL
 -----
