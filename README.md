@@ -84,6 +84,7 @@ BlissROMs 15.6
 * [Download 5t vanilla](https://sourceforge.net/projects/saadsprojects/files/dumpling/bliss/june/HOTFIX/Bliss-v15.6-dumpling-UNOFFICIAL-vanilla-20220629.zip/download)
 * [Download 5t foss](https://sourceforge.net/projects/saadsprojects/files/dumpling/bliss/june/HOTFIX/Bliss-v15.6-dumpling-UNOFFICIAL-foss-20220629.zip/download)
 * [Download 5t gapps](https://sourceforge.net/projects/saadsprojects/files/dumpling/bliss/june/HOTFIX/Bliss-v15.6-dumpling-UNOFFICIAL-gapps-20220629.zip/download)
+* thanks to @MudabbirulSaad
 
 Corvus OS v3.2
 -----
@@ -93,6 +94,7 @@ Corvus OS v3.2
 * [Download 5 gapps](https://sourceforge.net/projects/saadsprojects/files/cheeseburger/corvus/june/Corvus_vS3.2-Vindicate-cheeseburger-Gapps-Unofficial-1624.zip/download)
 * [Download 5t vanilla](https://sourceforge.net/projects/saadsprojects/files/dumpling/corvus/june/Corvus_vS3.2-Vindicate-dumpling-Unofficial-1455.zip/download)
 * [Download 5t gapps](https://sourceforge.net/projects/saadsprojects/files/dumpling/corvus/june/Corvus_vS3.2-Vindicate-dumpling-Gapps-Unofficial-1532.zip/download)
+* thanks to @MudabbirulSaad
 
 DotOS 6.0 Beta
 -----
@@ -139,6 +141,12 @@ Project Blaze v1.1
 * [Download 5t](https://drive.google.com/file/d/1bkmp2WfK6u8C-lDbXjtfE78GO4u28-ND/view?usp=sharing)
 * [Download 5t GAPPS](https://drive.google.com/file/d/1gnOEoyJcd5XxVARv31ls28L1sKTcqd_6/view?usp=sharing)
 * thanks to @MudabbirulSaad
+
+Spark OS 12.4 gapps test
+-----
+* [Download 5](https://drive.google.com/file/d/1-BUDHk7iFFF0RSDUZt0_M3KUodZOH3-C/view)
+* [Download 5t](https://drive.google.com/file/d/1RiWAngybdylBE_C4CfYGc3GkeVu-74p7/view)
+* thanks to @Wolf
 
 Spark OS S Energized Vanilla
 -----
