@@ -135,10 +135,12 @@ Evolution X
 
 PixelOS
 -----
-* [Telegram changelog 5](https://t.me/SaadsProjects/71)
-* [Telegram changelog 5t](https://t.me/SaadsProjects/72)
-* [Download 5](https://drive.google.com/file/d/1yoa-Zg7qhFmAePl3FSoOEFIKJVIVKDCv/view?usp=drivesdk)
-* [Download 5t](https://drive.google.com/file/d/1OgqnkuxZQM0rycU3gfjwYAxWqvbJwsb7/view?usp=drivesdk)
+* [Telegram changelog 5](https://t.me/AurorasBakery/52)
+* [Telegram changelog 5t](https://t.me/AurorasBakery/51)
+* [Download 5](https://sourceforge.net/projects/saadsprojects/files/cheeseburger/PixelOS/june/)
+* [Mirror 5](https://drive.google.com/file/d/1Um_f7Zoq34w3NmNAAQIz7rWt9tl_md9V/view?usp=drivesdk)
+* [Download 5t](https://sourceforge.net/projects/saadsprojects/files/dumpling/PixelOS/june/)
+* [Mirror 5t](https://drive.google.com/file/d/1VpuH-Hn5FYS88-Ayzio53_p_1yPCHSqy/view?usp=drivesdk)
 * thanks to @MudabbirulSaad
 
 Project Awaken 12.1
