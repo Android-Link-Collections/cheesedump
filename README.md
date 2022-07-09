@@ -40,11 +40,10 @@ Lineage 19.1 MiroG
 
 Pixel Experience 12
 -----
-* [Telegram changelog](https://t.me/LexipC/121)
 * [Telegram channel](https://t.me/LexipC)
 * [Download 5](https://download.pixelexperience.org/cheeseburger)
 * [Download 5t](https://download.pixelexperience.org/dumpling)
-* [Telegram chat](https://t.me/LexipC)
+* [Telegram chat](https://t.me/LexipG)
 * thanks to @xLexip
 
 Derpfest 12 EOL
