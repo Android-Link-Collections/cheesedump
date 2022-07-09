@@ -85,6 +85,15 @@ BlissROMs 15.6
 * [Download 5t foss](https://sourceforge.net/projects/saadsprojects/files/dumpling/bliss/june/HOTFIX/Bliss-v15.6-dumpling-UNOFFICIAL-foss-20220629.zip/download)
 * [Download 5t gapps](https://sourceforge.net/projects/saadsprojects/files/dumpling/bliss/june/HOTFIX/Bliss-v15.6-dumpling-UNOFFICIAL-gapps-20220629.zip/download)
 
+Corvus OS v3.2
+-----
+* [Telegram changelog 5](https://t.me/AurorasBakery/79)
+* [Telegram changelog 5t](https://t.me/AurorasBakery/78)
+* [Download 5 vanilla](https://sourceforge.net/projects/saadsprojects/files/cheeseburger/corvus/june/Corvus_vS3.2-Vindicate-cheeseburger-Unofficial-1651.zip/download)
+* [Download 5 gapps](https://sourceforge.net/projects/saadsprojects/files/cheeseburger/corvus/june/Corvus_vS3.2-Vindicate-cheeseburger-Gapps-Unofficial-1624.zip/download)
+* [Download 5t vanilla](https://sourceforge.net/projects/saadsprojects/files/dumpling/corvus/june/Corvus_vS3.2-Vindicate-dumpling-Unofficial-1455.zip/download)
+* [Download 5t gapps](https://sourceforge.net/projects/saadsprojects/files/dumpling/corvus/june/Corvus_vS3.2-Vindicate-dumpling-Gapps-Unofficial-1532.zip/download)
+
 DotOS 6.0 Beta
 -----
 * [Telegram changelog](https://t.me/theromfactory/42405)
