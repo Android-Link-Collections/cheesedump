@@ -74,6 +74,13 @@ AOSP 12.1 4.14 kernel beta 8
 * [Download 5/t](https://androidfilehost.com/?w=files&flid=331394)
 * thanks to @robertoglX
 
+Arrow OS v12.1
+-----
+* [Telegram changelog 5t](https://t.me/AurorasBakery/74)
+* [Download 5t vanilla](https://sourceforge.net/projects/saadsprojects/files/dumpling/arrowOS/june/Arrow-v12.1-dumpling-UNOFFICIAL-20220625-VANILLA.zip/download)
+* [Download 5t gapps](https://sourceforge.net/projects/saadsprojects/files/dumpling/arrowOS/june/Arrow-v12.1-dumpling-UNOFFICIAL-20220625-GAPPS.zip/download)
+* thanks to @MudabbirulSaad
+
 BlissROMs 15.6
 -----
 * [Telegram changelog 5](https://t.me/AurorasBakery/76)
