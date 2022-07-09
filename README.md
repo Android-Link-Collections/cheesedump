@@ -132,12 +132,12 @@ DotOS 6.0
 * [Download 5t gapps](https://drive.google.com/file/d/1Z0QidcgS8D5KN87vMJpMmo2SZZHdis4a/view?usp=sharing)
 * thanks to @MudabbirulSaad
 
-Evolution X
+Evolution X gapps
 -----
-* [Telegram changelog 5](https://t.me/SaadsProjects/62)
-* [Telegram changelog 5t(https://t.me/SaadsProjects/61)
-* [Download 5](https://drive.google.com/file/d/1mGmCk22sl96Ti8wzoPzoh0yLi61J7WPg/view?usp=sharing)
-* [Download 5t](https://drive.google.com/file/d/1hLLydKGfe-xmXICTcfE6EQP9wmKUCL7d/view?usp=sharing)
+* [Telegram changelog 5](https://t.me/AurorasBakery/37)
+* [Telegram changelog 5t(https://t.me/AurorasBakery/36)
+* [Download 5](https://drive.google.com/file/d/1LDYfCQZHThBc8Ar5uFxkBpfLcg8o8UE4/view)
+* [Download 5t](https://drive.google.com/file/d/1fm6OFKU36T_voeueoVEjqbEtxldFuwcp/view?usp=sharing)
 * thanks to @MudabbirulSaad
 
 PixelOS
