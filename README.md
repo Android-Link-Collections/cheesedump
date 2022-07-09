@@ -846,3 +846,4 @@ A11
 -----
 * [Github 5/5t](https://github.com/LineageOS-oneplus5/local_manifests/blob/op8998-eleven/roomservice.xml)
 * [Github 5](https://github.com/robertoglxda/local_manifests.git)
+* [Github 5/5t](https://github.com/SirRGB/local_manifests/tree/main/cheeseburgerdumpling)
