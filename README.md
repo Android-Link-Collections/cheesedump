@@ -46,7 +46,7 @@ Pixel Experience 12
 * [Telegram chat](https://t.me/LexipG)
 * thanks to @xLexip
 
-Project Elexir 1.8 gapps
+Project Elexir 1.9 gapps
 -----
 * [XDA 5](https://forum.xda-developers.com/t/rom-oss-12-1-june-oneplus-5-cheeseburger-project-elixir-official-gapps.4455871/)
 * [XDA5t](https://forum.xda-developers.com/t/rom-oss-12-0-oneplus-5t-dumpling-project-elixir-official-gapps.4418947/)
