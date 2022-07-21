@@ -17,7 +17,7 @@ Paranoid Android Saphire Beta 1
 * [Download 5t](https://aospa.pages.dev/oneplus5t)
 * thanks to @enesykaya and @herna
 
-DivestOS 19.1 EXPERIMENTAL
+DivestOS 19.1
 -----
 * [Download 5](https://divestos.org/index.php?page=devices&base=LineageOS#device-cheeseburger)
 * [Download 5t](https://divestos.org/index.php?page=devices&base=LineageOS#device-dumpling)
