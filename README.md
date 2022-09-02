@@ -122,7 +122,15 @@ BlissROMs 15.5 test
 -----
 * [Download 5 gapps](https://drive.google.com/file/d/1EniV-IPl3ohJtF_5cffxk8xlcDHokUJ7/view)
 * [Download 5t gapps](https://drive.google.com/file/d/1SxtWM7eIzUaP3asZlirsjv1UtkHfXlc1/view)
-* thanks to @Wolf
+* thanks to @lobo-1978
+
+Corvus OS S4.0 gapps
+-----
+* [Telegram changelog 5](https://t.me/theromfactory/76062)
+* [Telegram changelog 5t](https://t.me/theromfactory/76072)
+* [Download 5](https://mega.nz/file/8OdHjJCB#jGhWTDPXi6o5ZaPq2cJB5eD4JEtxWCrqV-PXV9kmUEs)
+* [Download 5t](https://mega.nz/file/oTcSwA5S#82SYBtcAmlIazrDeMTRBAWhIJsHlr-wAQSkjdEqOGwk)
+* thanks to @lobo-1978
 
 Corvus OS v3.2
 -----
@@ -193,7 +201,7 @@ Spark OS 12.4 gapps test
 -----
 * [Download 5](https://drive.google.com/file/d/1-BUDHk7iFFF0RSDUZt0_M3KUodZOH3-C/view)
 * [Download 5t](https://drive.google.com/file/d/1RiWAngybdylBE_C4CfYGc3GkeVu-74p7/view)
-* thanks to @Wolf
+* thanks to @lobo-1978
 
 Spark OS S Energized Vanilla
 -----
@@ -328,7 +336,7 @@ Halogen OS 11.0 EOL
 * [Download 5](https://github.com/halogenOS/builds/releases/download/v20210910.2313.170-tb/XOS_cheeseburger-11-20210910-231421-CEST-rolling-OFFICIAL.zip)
 * [Download 5t](https://github.com/halogenOS/builds/releases/download/v20210819.1855.164-tb/XOS_dumpling-11-20210819-185846-CEST-rolling-OFFICIAL.zip)
 * thanks to @xdevs23
-* suggested by @Wolf
+* suggested by @lobo-1978
 
 Hycon OS 2.5 EOL
 -----
@@ -499,14 +507,14 @@ Bliss OS 14.6.9 vanilla EOL
 * [Telegram chat](https://t.me/BLOp5T)
 * [Download 5](https://drive.google.com/file/d/1dg4ji_ogeYVLbftqGKQIfErVNm6_Go5V/view)
 * [Download 5t](https://drive.google.com/file/d/1vqKKZqKrUJp4UAcQBOAzjPeJZVUaSFyR/view)
-* thanks to @Wolf 
+* thanks to @lobo-1978 
 
 Bliss OS 14.7 gapps EOL
 -----
 * [Telegram chat](https://t.me/BLOp5T)
 * [Download 5](https://drive.google.com/file/d/1fRk5yZY7ZbWhNY97D-TGWx4mfcBtU-K2/view)
 * [Download 5t](https://drive.google.com/file/d/1-fHz0jP6J8F2Rer0JLIU_sBOypxuNV6n/view)
-* thanks to @Wolf 
+* thanks to @lobo-1978 
 
 Cesium OS 3.2.0 EOL
 -----
@@ -533,7 +541,7 @@ Descendant 11.5 EOL
 * [Download 5t](https://t.me/theromfactory/1193)
 * [Download 5t](https://sourceforge.net/projects/theromproject/files/Dumpling%28OP5T%29/descendantXI/)
 * thanks to @Arokz
-* thanks to @Wolf
+* thanks to @lobo-1978
 
 Dot OS 5.2.1 EOL
 -----
@@ -670,7 +678,7 @@ YAAP 11 EOL
 * [Telegram chat](https://t.me/yaapop5)
 * [Download 5/t](https://drive.google.com/drive/folders/1cMFV2SLpGBL9K5tZuaGP4N9UZiG5jU-O)
 * thanks to @enesykaya
-* suggested by @Wolf 
+* suggested by @lobo-1978 
 
 
 official A10
