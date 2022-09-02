@@ -9,13 +9,12 @@ Android
 official A12.1
 =====
 
-Paranoid Android Saphire Beta 1
+crDroid 8.8
 -----
-* [Telegram channel](https://t.me/paranoidandroidofficial)
-* [Telegram chat](https://t.me/aospaop5)
-* [Download 5](https://aospa.pages.dev/oneplus5)
-* [Download 5t](https://aospa.pages.dev/oneplus5t)
-* thanks to @enesykaya and @herna
+* [Telegram chat](https://t.me/crDroid_OnePlus5_5T)
+* [Download 5](https://crdroid.net/cheeseburger/8)
+* [Download 5t](https://crdroid.net/dumpling/8)
+* thanks to @neobuddy89
 
 DivestOS 19.1
 -----
@@ -37,6 +36,14 @@ Lineage 19.1 MiroG
 * [Download 5](https://www.los-legacy.de/19.1/cheeseburger)
 * [Download 5t](https://www.los-legacy.de/19.1/dumpling)
 * thanks to @Exodusnick
+
+Paranoid Android Saphire Beta 1
+-----
+* [Telegram channel](https://t.me/paranoidandroidofficial)
+* [Telegram chat](https://t.me/aospaop5)
+* [Download 5](https://aospa.pages.dev/oneplus5)
+* [Download 5t](https://aospa.pages.dev/oneplus5t)
+* thanks to @enesykaya and @herna
 
 Pixel Experience 12
 -----
