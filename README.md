@@ -132,7 +132,7 @@ Corvus OS S4.0 gapps
 * [Download 5t](https://mega.nz/file/oTcSwA5S#82SYBtcAmlIazrDeMTRBAWhIJsHlr-wAQSkjdEqOGwk)
 * thanks to @lobo-1978
 
-Corvus OS v3.2
+Corvus OS S3.2
 -----
 * [Telegram changelog 5](https://t.me/AurorasBakery/79)
 * [Telegram changelog 5t](https://t.me/AurorasBakery/78)
@@ -189,6 +189,12 @@ Project Blaze v1.2
 * [Download 5t](https://drive.google.com/file/d/1QFIMsqwN4Gk600Imh-HEdy1P3jYpDx5_/view?usp=sharing)
 * [Download 5t GAPPS](https://drive.google.com/file/d/1O3m8lsxoIBqEmqSF-uDbhIJHK5U9PAnW/view?usp=sharing)
 * thanks to @MudabbirulSaad
+
+Project Kaleidoscope
+-----
+* [Telegram changelog 5t](https://t.me/theromfactory/75616)
+* [Download 5t](https://mega.nz/file/5Ssi0YiJ#CrXEvdu7b1zePTn-9M2sItfUcMGvgmUoWtCOfWP-emU)
+* thanks to @lobo-1978
 
 RiceDroid 5.0
 -----
