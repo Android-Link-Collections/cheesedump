@@ -203,6 +203,12 @@ RiceDroid 5.0
 * [Mirror](https://sourceforge.net/projects/theromfactory/files/riceDroid/)
 * thanks to @forkbomb9
 
+Spark OS 12.6
+-----
+* [Telegram changelog](https://t.me/theromfactory/75359)
+* [Download](https://t.me/theromfactory/75359)
+* thanks to @forkbomb9
+
 Spark OS 12.4 gapps test
 -----
 * [Download 5](https://drive.google.com/file/d/1-BUDHk7iFFF0RSDUZt0_M3KUodZOH3-C/view)
