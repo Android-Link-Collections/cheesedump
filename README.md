@@ -5,6 +5,17 @@ Roms
 Android
 ======
 
+official A13
+=====
+
+Project Elixir 3.0 gapps
+-----
+* [Telegram changelog 5](https://t.me/Elixir_Updates/1010)
+* [Telegram changelog 5t](https://t.me/Elixir_Updates/1008)
+* [Download 5](https://downloads.projectelixiros.com/thirteen/cheeseburger/)
+* [Download 5t](https://downloads.projectelixiros.com/thirteen/dumpling/
+* thanks to @MudabbirulSaad
+
 
 official A12.1
 =====
