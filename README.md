@@ -39,6 +39,11 @@ Evolution X
 * [Download 5t](https://dl.android.store.mudabbirulsaad.com/0:/evox/September%20/A13MIX/evolution_dumpling-ota-tp1a.220905.004.a2-09211516-unofficial-unsigned.zip)
 * thanks to @MudabbirulSaad
 
+Lineage OS 20
+-----
+* [XDA 5](https://androidfilehost.com/?fid=14871746926876824082)
+* [Download 5](https://androidfilehost.com/?fid=14871746926876824082)
+
 Spark OS 13
 -----
 * [Telegram changelog](https://t.me/theromfactory/83820)
