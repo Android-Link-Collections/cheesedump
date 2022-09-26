@@ -518,13 +518,13 @@ Styx project 1.4 EOL
 Unofficial A11
 =====
 
-CrDroid 7.18
+crDroid 7.22
 -----
-* [Telegram changelog](https://t.me/oneplus5_flos_crDroid_updates/10)
-* [Download 5](https://sourceforge.net/projects/sirrgb-roms/files/Cheeseburger/CrDroid/crDroidAndroid-11.0-20220516-cheeseburger-v7.18.zip/download)
-* [Mirror 5](https://github.com/SirRGB/releases/releases/download/202205161540-crDroidAndroid-11.0-20220516-cheeseburger-v7.18/crDroidAndroid-11.0-20220516-cheeseburger-v7.18.zip)
-* [Download 5t](https://sourceforge.net/projects/sirrgb-roms/files/Dumpling/CrDroid/crDroidAndroid-11.0-20220516-dumpling-v7.18.zip/download)
-* [Mirror 5t](https://github.com/SirRGB/releases/releases/download/202205161603-crDroidAndroid-11.0-20220516-dumpling-v7.18/crDroidAndroid-11.0-20220516-dumpling-v7.18.zip)
+* [Telegram changelog](https://t.me/theromfactory/81085)
+* [Download 5 vanilla](https://sourceforge.net/projects/sirrgb-roms/files/Cheeseburger/CrDroid/crDroidAndroid-11.0-20220911-cheeseburger-v7.22.zip/download)
+* [Download 5 gapps](https://sourceforge.net/projects/sirrgb-roms/files/Cheeseburger/CrDroid/crDroidAndroid-11.0-20220911-cheeseburger-v7.22-GAPPS.zip/download)
+* [Download 5t vanilla](https://sourceforge.net/projects/sirrgb-roms/files/Dumpling/CrDroid/crDroidAndroid-11.0-20220911-dumpling-v7.22.zip/download)
+* [Download 5t gapps](https://sourceforge.net/projects/sirrgb-roms/files/Dumpling/CrDroid/crDroidAndroid-11.0-20220911-dumpling-v7.22-GAPPS.zip/download)
 * thanks to @xTeja and me
 
 ForkLineage OS 18.1
