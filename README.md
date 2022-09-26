@@ -841,6 +841,14 @@ crDroid 6.27
 * [Download](https://drive.google.com/drive/folders/1IYmkD1gGJgTRwKXyL8fscYQJUYfTupJh)
 * thanks to [@rahul_pandey03](https://t.me/rahul_pandey03)
 
+Mint OS Revived
+-----
+* [Telegram changelog 5](https://t.me/rgb_roms/5)
+* [Telegram changelog 5t](https://t.me/rgb_roms/10)
+* [Download 5](https://sourceforge.net/projects/sirrgb-roms/files/Cheeseburger/Mint_OS/lineage-17.1-20220804-UNOFFICIAL-cheeseburger.zip/download)
+* [Download 5t](https://sourceforge.net/projects/sirrgb-roms/files/Dumpling/Mint_OS/lineage-17.1-20220904-UNOFFICIAL-dumpling.zip/download)
+* built by me
+
 ResurrectionRemix Revived 8.7.14
 -----
 * [Telegram changelog](https://t.me/theromfactory/81090)
