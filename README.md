@@ -131,13 +131,13 @@ Pixel Experience 12
 * [Telegram chat](https://t.me/LexipG)
 * thanks to @xLexip
 
-Project Elexir 1.9 gapps
+Project Elexir 2.1 gapps
 -----
 * [XDA 5](https://forum.xda-developers.com/t/rom-oss-12-1-june-oneplus-5-cheeseburger-project-elixir-official-gapps.4455871/)
-* [XDA5t](https://forum.xda-developers.com/t/rom-oss-12-0-oneplus-5t-dumpling-project-elixir-official-gapps.4418947/)
+* [XDA 5t](https://forum.xda-developers.com/t/rom-oss-12-0-oneplus-5t-dumpling-project-elixir-official-gapps.4418947/)
 * [Download 5](https://downloads.projectelixiros.com/twelve/cheeseburger/)
 * [Download 5t](https://downloads.projectelixiros.com/twelve/dumpling/)
-* thanks to [@mudabbirulsaad](https://forum.xda-developers.com/m/mudabbirulsaad.12045115/)
+* thanks to @mudabbirulsaad
 
 Derpfest 12 EOL
 -----
