@@ -20,6 +20,17 @@ Project Elixir 3.1 gapps
 unofficial A13
 =====
 
+awakenOS 3.0
+-----
+* [Telegram changelog 5](https://t.me/AurorasBakery/197)
+* [Telegram changelog 5t](https://t.me/AurorasBakery/196)
+* [Download 5 vanilla](https://dl.android.store.mudabbirulsaad.com/0:/Awaken/September/awaken-3.0-triton-cheeseburger-unofficial-vanilla-1901-20220924.zip)
+* [Download 5 gapps](https://dl.android.store.mudabbirulsaad.com/0:/Awaken/September/awaken-3.0-triton-cheeseburger-unofficial-1827-20220924.zip)
+* [Download 5t vanilla](https://dl.android.store.mudabbirulsaad.com/0:/Awaken/September/awaken-3.0-triton-dumpling-unofficial-vanilla-1731-20220924.zip)
+* [Dowload 5t gapps](https://dl.android.store.mudabbirulsaad.com/0:/Awaken/September/awaken-3.0-triton-dumpling-unofficial-1423-20220924.zip)
+* thanks to @MudabbirulSaad
+
+
 Spark OS 13
 -----
 * [Telegram changelog](https://t.me/theromfactory/83820)
