@@ -812,6 +812,17 @@ Resurrection Remix 8.7.3 EOL
 * thanks to @zorock
 
 
+unofficial A10
+=====
+
+ResurrectionRemix Revived 8.7.14
+-----
+* [Telegram changelog](https://t.me/theromfactory/81090)
+* [Download 5](https://sourceforge.net/projects/sirrgb-roms/files/Cheeseburger/Resurrection_Remix/RROS-Q-8.7.14-20220911-cheeseburger-Unofficial.zip/download)
+* [Download 5t](https://sourceforge.net/projects/sirrgb-roms/files/Dumpling/Resurrection_Remix/RROS-Q-8.7.14-20220911-dumpling-Unofficial.zip/download)
+* built by me
+
+
 A10 port
 =====
 
