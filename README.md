@@ -79,7 +79,7 @@ xdroid 13 gapps
 official A12.1
 =====
 
-crDroid 8.8
+crDroid 8.9
 -----
 * [Telegram chat](https://t.me/crDroid_OnePlus5_5T)
 * [Download 5](https://crdroid.net/cheeseburger/8)
