@@ -769,7 +769,7 @@ YAAP 11 EOL
 official A10
 =====
 
-/e/ OS 0.23
+/e/ OS 1.3
 -----
 * [Documentation 5](https://doc.e.foundation/devices/cheeseburger/)
 * [Documentation 5t](https://doc.e.foundation/devices/dumpling/)
