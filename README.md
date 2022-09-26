@@ -69,6 +69,14 @@ DivestOS 19.1
 * [Download 5](https://divestos.org/index.php?page=devices&base=LineageOS#device-cheeseburger)
 * [Download 5t](https://divestos.org/index.php?page=devices&base=LineageOS#device-dumpling)
 
+Halogen OS 12.1
+-----
+* [Download 5](https://buildkite.com/organizations/halogenos/pipelines/rolling/builds/241/jobs/018350f2-fece-4c26-905f-f1ba6e9ef4a3/artifacts/0183515d-3ef6-45a1-84f5-941dc9d9b72f)
+* [Mirror 5](https://github.com/halogenOS/builds/releases/download/v20220918.1414.241-tb/halogenOS_cheeseburger-12.1-20220918-1418-rolling-OFFICIAL.zip)
+* [Download 5t](https://buildkite.com/organizations/halogenos/pipelines/rolling/builds/242/jobs/01835184-4289-4419-85f4-362bb5519324/artifacts/018351aa-305c-4890-bd3d-55f31656178f)
+* [Mirror 5t](https://github.com/halogenOS/builds/releases/download/v20220918.1653.242-tb/halogenOS_dumpling-12.1-20220918-1701-rolling-OFFICIAL.zip)
+* thanks to @xdevs23
+
 Lineage OS 19.1
 -----
 * [XDA 5/t](https://forum.xda-developers.com/t/12-1-unofficial-lineageos-19-1-for-oneplus-5-5t.4353295/post-86582953)
