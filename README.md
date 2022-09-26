@@ -302,6 +302,13 @@ Spark OS S Energized Vanilla
 * [Download 5t](https://sourceforge.net/projects/akas/files/Spark-12.2-UNOFFICIAL-dumpling-20220427.zip/download)
 * thanks to @LX_44
 
+TequillaOS 12.1
+-----
+* [Telegram changelog 5t](https://t.me/AurorasBakery/134)
+* [Download 5t](https://sourceforge.net/projects/saadsprojects/files/dumpling/tequilaOS/august/tequila-12.1-20220820-1449-UNOFFICIAL-dumpling.zip/download)
+* [Mirror 5t](https://dl.android.store.mudabbirulsaad.com/0:/tequilaOS/August/tequila-12.1-20220820-1449-UNOFFICIAL-dumpling.zip)
+* thanks to @MudabbirulSaad
+
 YAAP 12 gapps
 -----
 * [Telegram chat](https://t.me/yaapop5)
