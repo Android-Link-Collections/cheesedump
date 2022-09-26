@@ -8,12 +8,12 @@ Android
 official A13
 =====
 
-Project Elixir 3.0 gapps
+Project Elixir 3.1 gapps
 -----
-* [Telegram changelog 5](https://t.me/Elixir_Updates/1010)
-* [Telegram changelog 5t](https://t.me/Elixir_Updates/1008)
-* [Download 5](https://downloads.projectelixiros.com/thirteen/cheeseburger/)
-* [Download 5t](https://downloads.projectelixiros.com/thirteen/dumpling/
+* [Telegram changelog 5](https://t.me/Elixir_Updates/1161)
+* [Telegram changelog 5t](https://t.me/Elixir_Updates/1159)
+* [Download 5](https://projectelixiros.com/device/cheeseburger)
+* [Download 5t](https://projectelixiros.com/device/dumpling)
 * thanks to @MudabbirulSaad
 
 
