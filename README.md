@@ -235,7 +235,7 @@ DotOS 6.0
 Evolution X gapps
 -----
 * [Telegram changelog 5](https://t.me/AurorasBakery/37)
-* [Telegram changelog 5t(https://t.me/AurorasBakery/36)
+* [Telegram changelog 5t](https://t.me/AurorasBakery/36)
 * [Download 5](https://drive.google.com/file/d/1LDYfCQZHThBc8Ar5uFxkBpfLcg8o8UE4/view)
 * [Download 5t](https://drive.google.com/file/d/1fm6OFKU36T_voeueoVEjqbEtxldFuwcp/view?usp=sharing)
 * thanks to @MudabbirulSaad
@@ -278,7 +278,7 @@ Project Kaleidoscope
 
 RiceDroid 5.0
 -----
-* [Telegram changelog(https://t.me/theromfactory/77633)
+* [Telegram changelog](https://t.me/theromfactory/77633)
 * [Download](https://droid.forkbomb9.ch/?dir=riceDroid)
 * [Mirror](https://sourceforge.net/projects/theromfactory/files/riceDroid/)
 * thanks to @forkbomb9
