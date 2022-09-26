@@ -822,6 +822,12 @@ Resurrection Remix 8.7.3 EOL
 unofficial A10
 =====
 
+crDroid 6.27
+-----
+* [Telegram changelog](https://t.me/OP5T_flos_crdroid_updates/12151)
+* [Download](https://drive.google.com/drive/folders/1IYmkD1gGJgTRwKXyL8fscYQJUYfTupJh)
+* thanks to [@rahul_pandey03](https://t.me/rahul_pandey03)
+
 ResurrectionRemix Revived 8.7.14
 -----
 * [Telegram changelog](https://t.me/theromfactory/81090)
