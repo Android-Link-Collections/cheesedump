@@ -21,6 +21,13 @@ Project Elixir 3.1 gapps
 unofficial A13
 =====
 
+AOSP 13.0
+-----
+* [XDA](https://forum.xda-developers.com/t/rom-13-0-oneplus-5-5t-aosp-for-oneplus-5-11-september-2022.4480549/page-5#post-87421865)
+* [Download 5](https://androidfilehost.com/?w=files&flid=335703)
+* [Download 5t](https://androidfilehost.com/?w=files&flid=335704)
+* thanks to @roberto-sartori-gl
+
 awakenOS 3.0
 -----
 * [Telegram changelog 5](https://t.me/AurorasBakery/197)
