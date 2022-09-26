@@ -26,6 +26,14 @@ Spark OS 13
 * [Download](https://droid.forkbomb9.ch/?dir=Spark13)
 * thanks to @forkbomb9
 
+xdroid 13 gapps
+-----
+* [Telegram changelog 5](https://t.me/AurorasBakery/211)
+* [Telegram changelog 5t](https://t.me/AurorasBakery/210)
+* [Download 5](https://sourceforge.net/projects/saadsprojects/files/cheeseburger/xDroid/september/INA.XD.13.0.r5-402509-cheeseburger.REL.zip/download)
+* [Download 5t](https://sourceforge.net/projects/saadsprojects/files/dumpling/xDroid/september/INA.XD.13.0.r5-582509-dumpling.REL.zip/download)
+* thanks to @MudabbirulSaad
+
 
 official A12.1
 =====
