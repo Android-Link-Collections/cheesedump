@@ -31,6 +31,13 @@ awakenOS 3.0
 * [Dowload 5t gapps](https://dl.android.store.mudabbirulsaad.com/0:/Awaken/September/awaken-3.0-triton-dumpling-unofficial-1423-20220924.zip)
 * thanks to @MudabbirulSaad
 
+Evolution X
+-----
+* [Telegram changelog 5](https://t.me/AurorasBakery/185)
+* [Telegram changelog 5t](https://t.me/AurorasBakery/184)
+* [Download 5](https://dl.android.store.mudabbirulsaad.com/0:/evox/September%20/A13MIX/evolution_cheeseburger-ota-tp1a.220905.004.a2-09211347-unofficial-unsigned.zip)
+* [Download 5t](https://dl.android.store.mudabbirulsaad.com/0:/evox/September%20/A13MIX/evolution_dumpling-ota-tp1a.220905.004.a2-09211516-unofficial-unsigned.zip)
+* thanks to @MudabbirulSaad
 
 Spark OS 13
 -----
