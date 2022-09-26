@@ -10,6 +10,7 @@ official A13
 
 Project Elixir 3.1 gapps
 -----
+* [XDA](https://forum.xda-developers.com/t/rom-oss-13-september-oneplus-5-cheeseburger-project-elixir-beta-official-gapps.4487813/)
 * [Telegram changelog 5](https://t.me/Elixir_Updates/1161)
 * [Telegram changelog 5t](https://t.me/Elixir_Updates/1159)
 * [Download 5](https://projectelixiros.com/device/cheeseburger)
