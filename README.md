@@ -357,7 +357,7 @@ DivestOS 18.1
 * [Download 5](https://divestos.org/index.php?page=devices&base=LineageOS#device-cheeseburger)
 * [Download 5t](https://divestos.org/index.php?page=devices&base=LineageOS#device-dumpling)
 
-/e/ OS 0.23 beta
+/e/ OS 1.3 beta
 -----
 * [Documentation 5](https://doc.e.foundation/devices/cheeseburger/)
 * [Documentation 5t](https://doc.e.foundation/devices/dumpling/)
