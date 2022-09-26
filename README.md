@@ -206,6 +206,12 @@ Corvus OS S4.0 gapps
 * [Download 5t](https://mega.nz/file/oTcSwA5S#82SYBtcAmlIazrDeMTRBAWhIJsHlr-wAQSkjdEqOGwk)
 * thanks to @lobo-1978
 
+Corvus OS S4.0
+-----
+* [Download 5](https://mega.nz/file/8OdHjJCB#jGhWTDPXi6o5ZaPq2cJB5eD4JEtxWCrqV-PXV9kmUEs)
+* [Download 5t](https://mega.nz/file/oTcSwA5S#82SYBtcAmlIazrDeMTRBAWhIJsHlr-wAQSkjdEqOGwk)
+* thanks to @lobo-1978
+
 Corvus OS S3.2
 -----
 * [Telegram changelog 5](https://t.me/AurorasBakery/79)
