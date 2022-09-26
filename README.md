@@ -242,8 +242,8 @@ RiceDroid 5.0
 
 Spark OS 12.6
 -----
-* [Telegram changelog](https://t.me/theromfactory/75359)
-* [Download](https://t.me/theromfactory/75359)
+* [Telegram changelog](https://t.me/theromfactory/82273)
+* [Download](https://droid.forkbomb9.ch/?dir=Spark)
 * thanks to @forkbomb9
 
 Spark OS 12.4 gapps test
